@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: cdcfc9d7f6dbe774086370a7b1d91d1e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_0
+    21300002: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_1
+    21300004: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_2
+    21300006: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_3
+    21300008: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_4
+    21300010: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_5
+    21300012: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_6
+    21300014: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_7
+    21300016: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_8
+    21300018: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_9
+    21300020: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_10
+    21300022: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_11
+    21300024: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_12
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 245
+        width: 158
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ddb47d7aaa1ab4993f2b00afd3c485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 236
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230b16d5458ed6545ad92d5f81e7a4b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 244
+        width: 139
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb8b2c36bb7b1347866a102249cecb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 168
+        width: 158
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b9a8a0f155ae4eaca7dfea501f3da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 146
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e8dfb2653d9fc40ad1d0923f5bc1eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 168
+        width: 139
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f6e2b6c80cc9f43a36ac6c873fc147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70
+        width: 150
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7b5b4381c05f548ab8c5e59b14f19e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 76
+        width: 147
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2125290c739932488d801fcef92e08a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 80
+        width: 134
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09583d46543a9c148a3a4cca77c1f924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 143
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7998dd3b8e3534fb726ae29ae62ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 147
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79d4a39ca3dfbb4bbf7b255dc1a90de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4
+        width: 131
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f4d33e2a396eb46854e0b4780b3199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117-1173438_scifi-vector-hud-png-freeuse-free-sci-fi_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 27
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c94c14f8f9d664439b9980aa0620899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 10dd9a827c8a63e4cb44541462bff4f5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
